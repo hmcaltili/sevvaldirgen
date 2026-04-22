@@ -8,8 +8,11 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Clinical Case Studies | Dr. Portfolio",
-  description: "A professional showcase of clinical case studies including Endodontics and Implantology.",
+  title: "Sevval Dirgen | Vaka Arsivi",
+  description: "Diş hekimliği klinik vaka çalışmaları arşivi.",
+  icons: {
+    icon: "/favicon.png",
+  },
 };
 
 export const viewport: Viewport = {
